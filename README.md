@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
-<h2 align="center">Frontend Developer with React</h2>
+<h2 align="center">Frontend Web Developer</h2>
 <p align="center">
 <img src="src/asset.png" width="300px" align="center" alt="heroImg">
 </p>
